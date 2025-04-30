@@ -184,16 +184,6 @@ const Services = () => {
                         </button>
                     </div>
                 </div>
-
-                {/* Call to Action */}
-                <div className="mt-16 text-center">
-                    <p className="text-white text-xl mb-6">
-                        Looking for custom solutions? Let's discuss your project requirements.
-                    </p>
-                    <button className="bg-blue-500 hover:bg-blue-600 text-white py-3 px-8 rounded-full transition-all duration-300 transform hover:scale-105">
-                        Contact Me
-                    </button>
-                </div>
             </div>
         </div>
     );
