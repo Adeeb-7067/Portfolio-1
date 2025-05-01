@@ -1,6 +1,3 @@
-// Install framer-motion if not already installed:
-// npm install framer-motion
-
 'use client'
 
 import { useEffect, useRef, useState } from "react";
