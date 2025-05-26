@@ -80,9 +80,6 @@ export default function Home() {
 
             {/* Navbar - floating on top */}
             <nav className="sticky top-0 z-50 w-full bg-black bg-opacity-20 backdrop-blur-sm text-white font-semibold py-4 px-8 flex justify-between items-center">
-                <h1 className="text-4xl font-bold hover:text-blue-400 transition-colors duration-300">
-                    Portfolio
-                </h1>
                 <ul className="hidden md:flex gap-6 text-xl">
                     {navItems.map((item, index) => (
                         <li
